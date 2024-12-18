@@ -1,0 +1,8 @@
+[package]
+name = "linearAlgebra"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+faer = "0.19.4"
+gpurs = "0.4.0"
